@@ -31,7 +31,7 @@ const Post = () => {
               </IconButton>
             }
             title="Pardeep Sharma"
-            subheader="December 05, 2023"
+            subheader="December 22, 2023"
           />
           <CardMedia
             component="img"
